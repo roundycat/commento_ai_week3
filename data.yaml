@@ -1,0 +1,4 @@
+train: ./datasets/carparts/train/images
+val: ./datasets/carparts/valid/images
+nc: 5
+names: ['wheel', 'door', 'headlight', 'mirror', 'bumper']
